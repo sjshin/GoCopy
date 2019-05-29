@@ -38,7 +38,7 @@ func main() {
 	diff := end.Sub(now)
 	fmt.Print("Diff Time: ")
 	fmt.Println(diff)
-	println("복사가 완료 되었습니다")
+	println("===========Finish Copy============")
 
 }
 
