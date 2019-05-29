@@ -1,3 +1,3 @@
-rem copy 원본폴더  대상폴더
+rem copy "src:folder"  "dest:folder"
 gocopy.exe "d:/DownloadUtil" "g:/test"
 pause
